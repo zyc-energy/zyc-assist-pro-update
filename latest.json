@@ -1,0 +1,19 @@
+{
+  "version": "0.1.1",
+  "notes": "新版本发布",
+  "pub_date": "2025-05-16T15:27:50Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
