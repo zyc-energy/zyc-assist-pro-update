@@ -1,19 +1,19 @@
 {
   "version": "0.1.5",
   "notes": "点击下方资源下载此版本",
-  "pub_date": "2025-05-17T04:17:56.893Z",
+  "pub_date": "2025-05-17T04:32:17.000Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYzJtRUpMSFh1T2o0YkkwSXcyTlk5YTV3NnY2NXljNmk2ZVI2TkFnb2pIdHo4TnpNd2V0UUFONVVCcmlZRElkRXo1OGhvWjh2WWxXdHV2TjZuREZRQUxqdG9aOFVOSmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDU1MzkwCWZpbGU6WllDIEFzc2lzdCBQcm8uYXBwLnRhci5negpMNzBFWjFndndweWRWRGR0eUUzeUI5bWlCR0ZIRE5JcFcwcDBrM0daN3RvZ3RFK0lmZW1NcUlvUHRTOTRsN0hOc25Tam54cTc3YmlxRlQ3VllrRGlBUT09Cg==",
-      "url": "https://github.com/zyc-energy/zyc-assist-pro/releases/download/v0.1.5/ZYC.Assist.Pro_universal.app.tar.gz"
+      "url": "https://github.com/zyc-energy/zyc-assist-pro-update/releases/download/v0.1.5/ZYC.Assist.Pro_universal.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYzJtRUpMSFh1T2o0YkkwSXcyTlk5YTV3NnY2NXljNmk2ZVI2TkFnb2pIdHo4TnpNd2V0UUFONVVCcmlZRElkRXo1OGhvWjh2WWxXdHV2TjZuREZRQUxqdG9aOFVOSmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDU1MzkwCWZpbGU6WllDIEFzc2lzdCBQcm8uYXBwLnRhci5negpMNzBFWjFndndweWRWRGR0eUUzeUI5bWlCR0ZIRE5JcFcwcDBrM0daN3RvZ3RFK0lmZW1NcUlvUHRTOTRsN0hOc25Tam54cTc3YmlxRlQ3VllrRGlBUT09Cg==",
-      "url": "https://github.com/zyc-energy/zyc-assist-pro/releases/download/v0.1.5/ZYC.Assist.Pro_universal.app.tar.gz"
+      "url": "https://github.com/zyc-energy/zyc-assist-pro-update/releases/download/v0.1.5/ZYC.Assist.Pro_universal.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYzJtRUpMSFh1T3RUSm9HVWdkWENJRGVhQVptelo0NndCNnJkWS9NbGltYTVsaGZ2bEl1WFdYdTBOQUQxZ1RmUTg5dStwQUxhdjNmYWQxT0Y0TVQ5L0xBeHlLUUlyc0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDU1NDczCWZpbGU6WllDIEFzc2lzdCBQcm9fMC4xLjVfeDY0X3poLUNOLm1zaQpaUG1zYWg4eWhkMEg2THVzTmprNkdnK2JXZmtweWVkT1hObmlRWkM4bXoxdWEwMkRDTzBmWnFRNTZTNFRFWWQwYVBNZGJvR2Mzdzh5cENLVFVGTG5DUT09Cg==",
-      "url": "https://github.com/zyc-energy/zyc-assist-pro/releases/download/v0.1.5/ZYC.Assist.Pro_0.1.5_x64_zh-CN.msi"
+      "url": "https://github.com/zyc-energy/zyc-assist-pro-update/releases/download/v0.1.5/ZYC.Assist.Pro_0.1.5_x64_zh-CN.msi"
     }
   }
 }
