@@ -1,7 +1,7 @@
 {
   "version": "0.1.4",
   "notes": "新版本发布",
-  "pub_date": "2025-05-17T01:16:05Z",
+  "pub_date": "2025-05-17T03:40:39Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "",
@@ -12,8 +12,8 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "这是一个签名文件",
+      "url": "https://github.com/zyc-energy/zyc-assist-pro-update/releases/download/v0.1.4/ZYC.Assist.Pro_0.1.4_x64-setup.exe"
     }
   }
 }
