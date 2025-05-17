@@ -26,12 +26,13 @@ jobs:
           REPO_NAME="${GITHUB_REPOSITORY}"
           echo "仓库名称: $REPO_NAME"
           
-          # 替换 latest.json 中的 URL
-          sed -i 's|https://github.com/zyc-energy/zyc-assist-pro/|https://github.com/'${REPO_NAME}'/|g' latest.json
+          # 替换所有可能的 GitHub 仓库 URL
+          # 注意：使用 perl 进行正则表达式替换，支持更复杂的模式
+          perl -i -pe 's|(https://github\.com/)[^/]+/[^/]+/|$1'${REPO_NAME}'/|g' latest.json
           
           # 更新发布日期
           CURRENT_DATE_TIME=$(date -u +"%Y-%m-%dT%H:%M:%S.000Z")
-          sed -i 's|"pub_date": ".*"|"pub_date": "'$CURRENT_DATE_TIME'"|g' latest.json
+          perl -i -pe 's|"pub_date": ".*"|"pub_date": "'$CURRENT_DATE_TIME'"|g' latest.json
           
           # 显示更新后的内容
           cat latest.json
