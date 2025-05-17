@@ -6,29 +6,38 @@
 
 1. 当代码推送到 `main` 或 `master` 分支时，工作流自动触发
 2. 从 `latest.json` 文件中读取当前版本号
-3. 自动收集当前目录下的所有文件（排除 .git、.github 目录和 .DS_Store 文件）
-4. 创建一个新的 GitHub Release，版本号为 `v{版本号}`
-5. 上传所有收集到的文件到该 Release
+3. **自动更新 `latest.json` 文件中的 URL 地址为当前仓库地址**
+4. 自动收集当前目录下的所有文件（排除 .git、.github 目录和 .DS_Store 文件）
+5. 创建一个新的 GitHub Release，版本号为 `v{版本号}`
+6. 上传所有收集到的文件到该 Release
 
 ## 如何使用
 
 1. 确保你的项目中有 `latest.json` 文件，并包含正确的版本信息
 2. 将需要发布的文件放在项目根目录下
 3. 推送代码到 `main` 或 `master` 分支
-4. GitHub Actions 将自动创建一个新的发布版本
+4. GitHub Actions 将自动创建一个新的发布版本，并更新 `latest.json` 中的 URL 地址
 
 ## latest.json 文件格式
 
 ```json
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "notes": "点击下方资源下载此版本",
-  "pub_date": "2025-05-17T03:40:06.196Z",
+  "pub_date": "2025-05-17T04:17:56.893Z",
   "platforms": {
-    // 平台相关信息
+    "darwin-aarch64": {
+      "signature": "...",
+      "url": "https://github.com/zyc-energy/zyc-assist-pro/releases/download/v0.1.5/ZYC.Assist.Pro_universal.app.tar.gz"
+    },
+    // 其他平台信息
   }
 }
 ```
+
+## URL 自动更新
+
+工作流会自动将 `latest.json` 文件中的 URL 从 `https://github.com/zyc-energy/zyc-assist-pro/` 更新为当前仓库地址 `https://github.com/zyc-energy/zyc-assist-pro-update/`，确保下载链接指向正确的发布位置。
 
 ## 注意事项
 
