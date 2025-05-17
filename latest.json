@@ -1,19 +1,19 @@
 {
   "version": "0.1.6",
   "notes": "查看资产以下载此版本并安装。",
-  "pub_date": "2025-05-17T08:23:27.888Z",
+  "pub_date": "2025-05-17T08:29:21.000Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYzJtRUpMSFh1T2hrd0dVS2JUM0RpN0U5c1BhN1Q2QWRqNy9Td3huR0hTdW5tUTM2QlJvK3JObHV1SnVyN1JiQmM2bWRUSUt5WkRxbUlkV3RQSEFsdWF1cjQ2NkdTZXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDY4OTcyCWZpbGU6WllDIEFzc2lzdCBQcm8uYXBwLnRhci5negpqNkVFQ2NKWkVvN3lURXQzNmhWSnV6MDNhM3V6THNSZHJQY0hkbmxTSnIwU3pLcnpFWWFiZStHNC9hQjFzQ2tveUxESThLMWFYRUFLbmE4bGYvWGxCUT09Cg==",
-      "url": "https://github.com/Hyan08/tauri-test/releases/download/v0.1.6/ZYC.Assist.Pro_x64.app.tar.gz"
+      "url": "https://github.com/zyc-energy/zyc-assist-pro-update/releases/download/v0.1.6/ZYC.Assist.Pro_x64.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYzJtRUpMSFh1T3VYSXhzREVCem9pbG5SRlVyVHhDcHE5SXlLaGt1cFhnRjM5UWFTTGFwSE5WdXcycDNLdzR6bjUwK0o0eE5PTk96UGgyZ1lTRU9kZmtUSnhtSGF1ZFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDY4OTgxCWZpbGU6WllDIEFzc2lzdCBQcm8uYXBwLnRhci5negpPKzl3S2lsUDdwZGZFdVdNTjN2ek8zcjQvZmFxNUYxaGVjUmVZL3hSMjdwd1phd2VaR21vN1BLWExWcmNlMnk1ODk5MHd3bWRKUm9Ya08rVEhtUXNCQT09Cg==",
-      "url": "https://github.com/Hyan08/tauri-test/releases/download/v0.1.6/ZYC.Assist.Pro_aarch64.app.tar.gz"
+      "url": "https://github.com/zyc-energy/zyc-assist-pro-update/releases/download/v0.1.6/ZYC.Assist.Pro_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYzJtRUpMSFh1T3Q3dVhUNUdGWktOcGdkTktBQXcrM2VVYnNyTmFNVXVDWFBPeEpGMkI2TGxybFQ5KytHVlhSWG9VUGw1VDI3WERUMUMyVmlJQVl1Y0JWK1NrcldjTVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NDcwMjA1CWZpbGU6WllDIEFzc2lzdCBQcm9fMC4xLjZfeDY0X3poLUNOLm1zaQpzNy9VQlFuL2NOQ3NMT0pHUUtjcjBOQWdmcGI4U01sdlJ6V2tHeFFOOXNJcXBUcE15NXhMakFBSEtMVG83bHpqVFl1dVZ5SnM0WUxEVEx1S0JOMHNBUT09Cg==",
-      "url": "https://github.com/Hyan08/tauri-test/releases/download/v0.1.6/ZYC.Assist.Pro_0.1.6_x64_zh-CN.msi"
+      "url": "https://github.com/zyc-energy/zyc-assist-pro-update/releases/download/v0.1.6/ZYC.Assist.Pro_0.1.6_x64_zh-CN.msi"
     }
   }
 }
